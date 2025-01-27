@@ -43,12 +43,12 @@ The project leverages data analysis and visualization techniques to evaluate sho
    ```bash
    git clone https://github.com/your-username/Identifying-Shopping-Trends.git
 
-##usages
+## usages
 
-##Future Enhancements
--Integration with real-time shopping data streams.
--Deployment of predictive models for trend forecasting.
--Development of interactive dashboards using tools like Power BI or Tableau.
--Incorporation of external data sources such as market trends and events.
+## Future Enhancements
+- Integration with real-time shopping data streams.
+- Deployment of predictive models for trend forecasting.
+- Development of interactive dashboards using tools like Power BI or Tableau.
+- Incorporation of external data sources such as market trends and events.
 
 
