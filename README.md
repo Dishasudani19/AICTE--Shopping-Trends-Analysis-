@@ -9,10 +9,8 @@ This project analyzes shopping data to identify trends and insights, helping bus
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
 - [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -43,7 +41,7 @@ The project leverages data analysis and visualization techniques to evaluate sho
    ```bash
    git clone https://github.com/your-username/Identifying-Shopping-Trends.git
 
-## usages
+
 
 ## Future Enhancements
 - Integration with real-time shopping data streams.
